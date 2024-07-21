@@ -1,5 +1,7 @@
+import HomeTemplate from '@/modules/home/templates';
+
 export default function Home() {
   return (
-    <h2>Hello world!</h2>
+    <HomeTemplate />
   );
 }
