@@ -1,4 +1,4 @@
-import HomeTemplate from '@/modules/home/templates';
+import HomeTemplate from '@/modules/store/home/templates';
 
 export default function Home() {
   return (

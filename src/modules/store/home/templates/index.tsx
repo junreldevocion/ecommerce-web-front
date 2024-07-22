@@ -1,4 +1,4 @@
-import Layout from '@/modules/layout';
+import Layout from '@/app/layout';
 import Hero from '../components/hero';
 import FeaturedProducts from '../components/featured-products';
 
